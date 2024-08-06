@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @VoidLipin
+- 👀 I’m interested in - Computer science
+- 🌱 I’m currently learning - Python | HTML | CSS | JS
+- 💞️ I’m looking to collaborate on - Back-End scripts
+- 📫 How to reach me - Linkedin | Github | Gmail
+- 😄 Pronouns: - He/Him
+- ⚡ Fun fact: - I'm 16 years old
